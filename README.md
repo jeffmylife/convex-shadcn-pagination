@@ -196,7 +196,3 @@ Want to add this pagination pattern to your own Convex + TanStack Table project?
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
-
-## License
-
-MIT
